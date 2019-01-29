@@ -4,3 +4,11 @@ Can I die already?
 
 
 Please
+
+function InNomineTheresiasResurrection(Name) {
+
+console.log('In nomine Theresias ' + Name + " has been resurrected. Amen");
+
+}
+
+Iwannadie('Parce');
